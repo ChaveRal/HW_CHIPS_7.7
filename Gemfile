@@ -8,6 +8,8 @@ gem 'sass-rails', '~> 5.0.3'
 gem 'uglifier', '>= 2.7.1'
 
 gem 'jquery-rails'
+# add Timezone data
+gem 'tzinfo-data'
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
